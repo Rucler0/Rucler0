@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+🔭 I’m currently studying on Izmir Instute of Technology
+🌱 I’m currently learning TailwindCSS, React, Machine Learning
+🤔 I’m looking for help with Data Science
 <!--
 **Rucler0/Rucler0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
